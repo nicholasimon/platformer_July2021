@@ -1,5 +1,5 @@
 # platformer_July2021
-Another incomplete platformer attempt
+Another incomplete platformer attempt - video is here https://youtu.be/VITAXHZqgNM
 
 &bull; Arrow Keys - Move<br />
 &bull; Space - Shoot / Interact<br />
